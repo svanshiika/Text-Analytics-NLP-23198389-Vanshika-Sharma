@@ -1,0 +1,2 @@
+comparison,n,share_any_vote_agree,share_any_vote_disagree,odds_ratio_any_vote,or_ci_low,or_ci_high,p_any_vote,n_with_votes,rate_ratio_votes,rr_ci_low,rr_ci_high,p_votes,nb_converged
+Low stars (1-2),44113,0.18662598525298754,0.32833062046514194,1.9477105462573294,1.6436118133223663,2.308073196635013,1.3937392770960133e-14,13369,1.068989298682458,0.9068524135482998,1.2601147701932538,0.4266580802215134,True

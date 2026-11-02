@@ -1,0 +1,4 @@
+model,comparison,n,smaller_outcome_group,predictors,cases_per_predictor
+Q1 any-word (A3),Low stars (1-2),19697,916,7,131
+Q2 who disagrees,Low stars (1-2),12803,765,8,96
+Q3 any helpful vote,Low stars (1-2),44113,13369,10,1337

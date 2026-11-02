@@ -1,0 +1,20 @@
+You are coding words in Amazon beauty product reviews.
+You will see one review snippet. One word is shown in [CAPITALS].
+Decide whether THAT word itself carries the meaning of the given list.
+
+Meaning of Y for each list:
+- positive: the word itself shows liking or praise
+- negative: the word itself shows something bad or unpleasant
+- anger: the word itself shows annoyance or anger
+- sadness: the word itself shows sadness, disappointment or loss
+- money: the word itself is about money, price, cost or value
+
+Rules:
+1. Judge ONLY the word in [CAPITALS], not the words around it.
+   "the [SMELL] is awful" -> N (the feeling is carried by "awful", not "smell").
+2. Judge the word's meaning, not whether it is negated: "not [BAD]" -> Y for negative.
+3. Idioms are N: "I [HATE] to say this", "it couldn't [HURT] to try".
+4. Physical pain or skin reactions (hurt, painful, irritation) are negative, but not anger or sadness.
+5. "buy", "buying", "purchase" about buying or loyalty ("will buy again") are N for money.
+
+Answer with exactly one letter: Y or N.

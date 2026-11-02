@@ -1,0 +1,21 @@
+# Raw Amazon data (only the compressed .gz copies are added, with git add -f)
+data/raw/
+
+# Large rebuilt files
+data/processed/*.parquet
+data/processed/*.joblib
+
+# Keep the split file
+!data/processed/baseline_split.csv
+
+# NRC lexicon (own terms of use)
+lexicons/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt
+
+
+# Python / Jupyter / Mac
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.vscode/

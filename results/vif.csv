@@ -1,0 +1,19 @@
+model,predictor,VIF
+Q1 | Low stars (1-2),disagree,1.061427230844362
+Q1 | Low stars (1-2),log_popularity,1.0601660991431874
+Q1 | Low stars (1-2),log_age,1.0353876589840352
+Q1 | Low stars (1-2),verified,1.0106868599368748
+Q1 | Low stars (1-2),rating_2,1.0206586070542414
+Q2 with repeat | Low stars (1-2),log_experience,6.257999260845537
+Q2 with repeat | Low stars (1-2),repeat,6.21257141062588
+Q2 with repeat | Low stars (1-2),log_price,1.0069779638238392
+Q2 with repeat | Low stars (1-2),log_popularity,1.0252522998509295
+Q2 with repeat | Low stars (1-2),log_age,1.033029608415368
+Q2 with repeat | Low stars (1-2),verified,1.0243223177747653
+Q2 with repeat | Low stars (1-2),rating_2,1.0064641650955446
+Q2 without repeat | Low stars (1-2),log_experience,1.01485562877427
+Q2 without repeat | Low stars (1-2),log_price,1.0068588125384714
+Q2 without repeat | Low stars (1-2),log_popularity,1.0252459984689446
+Q2 without repeat | Low stars (1-2),log_age,1.0329570011631597
+Q2 without repeat | Low stars (1-2),verified,1.0166642413658575
+Q2 without repeat | Low stars (1-2),rating_2,1.0060945872800744

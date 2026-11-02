@@ -1,0 +1,28 @@
+You are labelling customer reviews for a research study. The attached CSV has two
+columns: review_id and text_clean. Each row is one Amazon beauty product review.
+
+For EVERY review, answer two questions with YES or NO.
+
+QUESTION 1 - mentions_others:
+Does the review refer to OTHER people's reviews, ratings or opinions about this
+product? (For example: what other buyers or reviewers said, the product's good or bad
+reviews, or "everyone loves this".)
+Answer NO if the review only talks about the writer's own opinion, the writer's own
+review, other products, or people in general without referring to their opinions of
+this product.
+
+QUESTION 2 - gives_reason:
+Does the review explicitly state a reason or cause, using words that link a cause to
+its effect (for example: "it broke because the plastic is thin")?
+Answer NO if no cause is stated, or if the writer says they do NOT know the reason
+(for example: "for some reason it stopped working").
+
+RULES:
+- Read and judge each review by its meaning. Do NOT use code, keyword searches or
+  automated pattern matching. Judge every review yourself.
+- Answer every review. Do not skip any.
+- Work in batches of 50 reviews. After each batch, wait for me to type "next".
+
+OUTPUT: a CSV table with exactly these columns:
+review_id,gpt_mentions,gpt_reasons
+using YES or NO in the last two columns.

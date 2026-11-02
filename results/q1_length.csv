@@ -1,0 +1,2 @@
+comparison,n,median_words_agree,median_words_disagree,percent_longer,ci_low_%,ci_high_%,p
+Low stars (1-2),44113,17.0,22.0,18.484133076552787,13.796412028083815,23.364959761980142,1.7969557537326243e-16

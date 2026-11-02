@@ -1,0 +1,11 @@
+comparison,feature,Main (as in 05),Original NRC lists,Minimum 10 earlier reviews,Minimum 20 earlier reviews,Average of last 10 reviews,Length 50+ words,survives
+Low stars (1-2),Reasons,0.03,0.03,0.025,0.026,0.031,0.006,main not significant
+Low stars (1-2),Mentions of others,-0.019,-0.019,-0.0,0.054,0.014,0.009,main not significant
+Low stars (1-2),Certainty,-0.008,-0.008,-0.015,-0.066,-0.031,0.001,main not significant
+Low stars (1-2),Negation,-0.24*,-0.24*,-0.274*,-0.326*,-0.176*,-0.15*,5 of 5
+Low stars (1-2),First-person I,0.131*,0.131*,0.153*,0.161*,0.142*,0.145*,5 of 5
+Low stars (1-2),Positive emotion,0.026,0.039,0.025,0.067,0.054,0.073,main not significant
+Low stars (1-2),Negative emotion,-0.057,-0.021,-0.055,-0.037,-0.029,-0.068,main not significant
+Low stars (1-2),Anger,-0.122*,-0.039,-0.135*,-0.111,-0.114*,-0.06,2 of 5
+Low stars (1-2),Sadness,0.054,0.022,0.073,0.089,0.048,0.026,main not significant
+Low stars (1-2),Money,-0.086*,-0.064,-0.102*,-0.079,-0.097*,-0.063,2 of 5

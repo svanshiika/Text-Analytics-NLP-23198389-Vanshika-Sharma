@@ -1,0 +1,7 @@
+step,reviews,products,users
+0. Raw file,701528,112565,631986
+1. Exact duplicates removed (D10),694228,112565,631986
+"2. Repeat reviews removed, first kept (D10)",693929,112565,631986
+"3. Product info joined (D1, D6)",693929,112565,631986
+4. Has a crowd of 5+ earlier reviews (D5),410866,22606,390400
+"5. ...and 25+ words, for word features (D4)",169384,18082,161063
